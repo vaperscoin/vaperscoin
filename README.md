@@ -12,9 +12,9 @@ Vaperscoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as 
 - Initial subsidy: 7500
 - Block target: 60 seconds
 - Port: 4444
-- RPC port: 3344
+- RPC port: 4455
 - Testnet port: 14444
-- RPC testnet port: 13344
+- RPC testnet port: 14455
 
 http://vaperscoin.com/
 
