@@ -8,8 +8,8 @@
 ## What is Vaperscoin?
 Vaperscoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, Vaperscoin currently employs a simplified variant of scrypt.
 
-- Total coins: ~ 
-- Initial subsidy: 
+- Total coins: 42 750 000 000
+- Initial subsidy: 7500
 - Block target: 60 seconds
 - Port: 3333
 - RPC port: 3344
