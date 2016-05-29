@@ -1,0 +1,5 @@
+Building Vaperscoin
+
+See doc/build-*.md for instructions on building vaperscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vaperscoin.
