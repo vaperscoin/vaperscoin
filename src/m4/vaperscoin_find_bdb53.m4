@@ -1,8 +1,8 @@
 AC_DEFUN([BITCOIN_FIND_BDB53],[
   AC_MSG_CHECKING([for Berkeley DB C++ headers])
   BDB_CPPFLAGS=
-  BDB_LIBS=
-  bdbpath=X
+  BDB_LIBS=/usr/local/lib
+  bdbpath=/usr/local/include
   bdb53path=X
   bdbdirlist=
   for _vn in 5.3 53 5 ''; do
